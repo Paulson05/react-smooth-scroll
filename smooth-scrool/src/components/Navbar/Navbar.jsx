@@ -17,8 +17,8 @@ const Navbar = () => {
             <Nav>
                 
                     <NavbarContainer>
-                    <NavLogo to= '/'>
-                    bucci
+                    <NavLogo >
+                    bucci banty
                     </NavLogo>
                     </NavbarContainer>
             </Nav>
