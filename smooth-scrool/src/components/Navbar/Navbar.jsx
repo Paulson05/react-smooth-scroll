@@ -1,4 +1,5 @@
-import React from 'react'
+
+import React from 'react';
 import {
     Nav,
     NavbarContainer,
@@ -18,7 +19,7 @@ const Navbar = () => {
                 
                     <NavbarContainer>
                     <NavLogo >
-                    bucci banty
+                    bucciano
                     </NavLogo>
                     </NavbarContainer>
             </Nav>
